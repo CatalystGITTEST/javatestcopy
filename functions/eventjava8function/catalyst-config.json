@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "eventjava8function",
+		"stack": "java8",
+		"type": "event",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}

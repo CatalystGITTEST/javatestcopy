@@ -1,0 +1,16 @@
+{
+	"deployment": {
+		"name": "java11convocraft",
+		"stack": "java11",
+		"type": "integration",
+		"env_variables": {},
+		"integration_config": [
+			{
+				"service": "Convokraft"
+			}
+		]
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}

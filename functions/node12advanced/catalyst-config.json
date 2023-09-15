@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "node12advanced",
+		"stack": "node12",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

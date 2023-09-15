@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "eventjava17function",
+		"stack": "java17",
+		"type": "event",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}

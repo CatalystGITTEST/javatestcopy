@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "node14cron",
+		"stack": "node14",
+		"type": "cron",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

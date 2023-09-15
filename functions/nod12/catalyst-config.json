@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "nod12",
+		"stack": "node12",
+		"type": "basicio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

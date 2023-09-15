@@ -1,0 +1,9 @@
+{
+	"name": "node14",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "kumaran.td+java@zohotest.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "node12event",
+		"stack": "node12",
+		"type": "event",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

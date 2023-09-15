@@ -1,0 +1,16 @@
+{
+	"deployment": {
+		"name": "node16convocraft",
+		"stack": "node16",
+		"type": "integration",
+		"env_variables": {},
+		"integration_config": [
+			{
+				"service": "Convokraft"
+			}
+		]
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

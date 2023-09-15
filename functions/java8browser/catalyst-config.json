@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "java8browser",
+		"stack": "java8",
+		"type": "browser_logic",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}
