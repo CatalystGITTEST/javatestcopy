@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7058000000035092",
+      "name": "2Mac4",
+      "domain": {
+        "id": "1012797410",
+        "name": "2mac4-77373881.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "77373881",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
