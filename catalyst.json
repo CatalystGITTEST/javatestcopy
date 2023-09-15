@@ -1,0 +1,55 @@
+{
+  "functions": {
+    "targets": [
+      "java17basicio",
+      "java11basicio",
+      "java8baiscio",
+      "nodejsbasicio16",
+      "node14",
+      "nod12",
+      "py",
+      "java17advancedio",
+      "java11advancedio",
+      "java8advancedio",
+      "node16advanced",
+      "node14advanced",
+      "node12advanced",
+      "pyadvanced",
+      "eventjava17function",
+      "eventjava11function",
+      "eventjava8function",
+      "node16event",
+      "node14event",
+      "node12event",
+      "pyeventfunction",
+      "java17cronfunction",
+      "java11cronfunction",
+      "java8cronfunction",
+      "node16cron",
+      "node14cron",
+      "node12cron",
+      "pycronfunction",
+      "java17browser",
+      "java11browser",
+      "java8browser",
+      "java17cliqbothandler",
+      "java17installationvalidatorcliq",
+      "java17convocraft",
+      "java11convocraft",
+      "java8convocraft",
+      "pyconvocraft",
+      "node16convocraft",
+      "java11commonhandler",
+      "java8widgethandler",
+      "java17cliqfunctionhandler",
+      "nodecliqmessageactionhandler"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
