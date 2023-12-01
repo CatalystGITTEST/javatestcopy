@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "localjava17",
+		"stack": "java17",
+		"type": "basicio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}
