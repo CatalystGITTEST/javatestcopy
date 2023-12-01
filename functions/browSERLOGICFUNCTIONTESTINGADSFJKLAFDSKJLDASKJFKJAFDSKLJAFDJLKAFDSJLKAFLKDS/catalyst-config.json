@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "browSERLOGICFUNCTIONTESTINGADSFJKLAFDSKJLDASKJFKJAFDSKLJAFDJLKAFDSJLKAFLKDS",
+		"stack": "java17",
+		"type": "browser_logic",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}
