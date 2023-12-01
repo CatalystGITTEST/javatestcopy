@@ -1,0 +1,11 @@
+{
+  "deployment": {
+    "name": "playwrightfundsfajkadfskjjklasfdkjlfsdajkkjlfadskljafsd",
+    "stack": "node16",
+    "type": "browser_logic",
+    "env_variables": {}
+  },
+  "execution": {
+    "main": "index.js"
+  }
+}
